@@ -6,7 +6,6 @@ function Map() {
 
 
     const [searchParams, setSearchParams] = useSearchParams();
-    console.log(setSearchParams)
     const lat = searchParams.get("lat");
     const lng = searchParams.get('lng');
 
