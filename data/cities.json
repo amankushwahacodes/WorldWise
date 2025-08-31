@@ -8,9 +8,9 @@
       "notes": "Capital of India",
       "position": {
         "lat": 28.6139,
-        "lng": 77.2090
+        "lng": 77.209
       },
-      "id": 101
+      "id": "101"
     },
     {
       "cityName": "Surat",
@@ -22,7 +22,7 @@
         "lat": 21.1702,
         "lng": 72.8311
       },
-      "id": 102
+      "id": "102"
     },
     {
       "cityName": "Bengaluru",
@@ -34,7 +34,7 @@
         "lat": 12.9716,
         "lng": 77.5946
       },
-      "id": 103
+      "id": "103"
     }
   ]
 }
