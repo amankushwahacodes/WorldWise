@@ -105,7 +105,6 @@ function CitiesProvider({ children }) {
                 type: 'rejected', payload: 'There was an error creating city'
             })   
         }
-
     }
 
     async function deleteCity(id) {
