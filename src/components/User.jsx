@@ -8,7 +8,7 @@ function User() {
   const {user,logout} = useAuth();
   const navigate = useNavigate()
 
-  function handleClick(e) {
+  function handleClick() {
     logout();
     navigate('/');
 

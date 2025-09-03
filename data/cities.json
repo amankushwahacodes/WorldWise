@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Delhi",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-07-10T12:30:00.000Z",
-      "notes": "Capital of India",
-      "position": {
-        "lat": 28.6139,
-        "lng": 77.209
-      },
-      "id": "101"
-    },
-    {
       "cityName": "Surat",
       "country": "India",
       "emoji": "🇮🇳",
@@ -23,18 +11,6 @@
         "lng": 72.8311
       },
       "id": "102"
-    },
-    {
-      "cityName": "Bengaluru",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-05-05T18:45:00.000Z",
-      "notes": "The Silicon Valley of India",
-      "position": {
-        "lat": 12.9716,
-        "lng": 77.5946
-      },
-      "id": "103"
     },
     {
       "id": "ddf6",
